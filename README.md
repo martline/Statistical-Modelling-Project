@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-To determine if relationships exists between the number of city bikes available at the various locations and any of the points of interests in the city of our choice (Hamilton, ON, Canada in my case).
+To determine if relationships exists between the number of city bikes available at the various locations and any of the points of interests in the city of our choice.
 
 ## Process
 - Get familiar with CityBike API and request information about city of my choice
