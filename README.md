@@ -8,7 +8,7 @@ To determine if relationships exists between the number of city bikes available 
 - Connect to Foursquare and Yelp APIs. Send request for points of interest (POI)
 - Join the data from 1st and 2nd part to create new dataframe and then use visualisation to explore the data
 - Build a regression model using Python's statsmodels module, to find the relationships between number of bikes and chracteristics of POIs in the city of choice.
-### (your step 2)
+
 
 ## Results
 Yelp API provides more detailed information rather than Foursquare API. Number of free bikes doesn't relate to the reviews and ratings in Siena.
